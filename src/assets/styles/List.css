@@ -1,0 +1,16 @@
+li {
+    border-bottom:1px solid rgba(0,0,0,0.2);
+    padding-bottom:5px;
+    margin:10px;
+}
+li input {
+    
+}
+li span {
+    font-weight:500;
+    margin:0 10px;
+}
+li button {
+    float:right;
+    padding-right:15px;
+}
